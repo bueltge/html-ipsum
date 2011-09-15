@@ -34,14 +34,7 @@
 		
 	</head>
 	<body>
-		<?php
-		$path_parts = explode('/', $_SERVER['PHP_SELF']);
-		$path_part = $path_parts[1];
-		if($path_part == "test")
-		$path_part = '<a href="http://bueltge.de">bueltge.de</a> &raquo; <a href="http://bueltge.de/' . $path_part . '/">' . $path_part . '</a>';
-		?>
 		<div id="header">
-			<p><small>Du bist hier: <?php echo $path_part . ' &raquo;' ?></small></p>
 			<h1><a href="http://bueltge.de/" title="zum Weblog des Autors">&lt;HTML&gt; &ndash; Lorem ipsum Deutsch</a></h1>
 			<p class="hint"><small>i &mdash; Klick den jeweiligen Titel f&uuml;r eine Kopie in die Zwischenablage</small></p>
 		</div>
