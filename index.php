@@ -28,9 +28,8 @@
 		<script type="text/javascript">
 			google.load("jquery", "1.3.1");
 		</script>
-		<script type="text/javascript" src="../test/inc/ZeroClipboard.js"></script>
-		<script type="text/javascript" src="../test/inc/ipsum.js"></script>
-		<script type="text/javascript" src="http://bueltge.de/mv/?js"></script>
+		<script type="text/javascript" src="inc/ZeroClipboard.js"></script>
+		<script type="text/javascript" src="inc/ipsum.js"></script>
 		
 	</head>
 	<body>
