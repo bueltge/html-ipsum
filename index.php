@@ -7,8 +7,6 @@
 		
 		<title>&lt;HTML&gt; &ndash; Lorem ipsum Deutsch | bueltge.de [by:ltge.de]</title>
 		
-		<link rel="shortcut icon" href="http://bueltge.de/favicon.ico" />
-		
 		<style type="text/css" media="screen">
 		/*<![CDATA[*/
 			body { background: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 100%; }
