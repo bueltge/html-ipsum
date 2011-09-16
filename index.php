@@ -325,7 +325,7 @@
 
 		<div id="footer">
 			<p>
-			&copy; 2009 <a href="http://bueltge.de/">bueltge.de</a> &middot; <strong>Danke:</strong> <a href="http://css-tricks.com/">Chris Coyier</a> f&uuml;r Idee im Design, <a href="http://www.gutenberg.org/browse/languages/de">Project Gutenberg</a> für die Texte, <a href="http://www.grochtdreis.de/">Jens Grochtdreis</a> f&uuml;r die Hinweise<br /><small><?php include('../test/inc/class_timer.inc.php'); ?></small>
+			&copy; 2009 <a href="http://bueltge.de/">bueltge.de</a> &middot; <strong>Danke:</strong> <a href="http://css-tricks.com/">Chris Coyier</a> f&uuml;r Idee im Design, <a href="http://www.gutenberg.org/browse/languages/de">Project Gutenberg</a> für die Texte, <a href="http://www.grochtdreis.de/">Jens Grochtdreis</a> f&uuml;r die Hinweise
 			</p>
 		</div>
 
