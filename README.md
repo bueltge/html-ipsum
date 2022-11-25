@@ -16,4 +16,4 @@ die mir diverse Auswahlbereiche mit HTML-Tags und Blindtexten in deutscher Sprac
 https://bueltge.de/html-ipsum/
 
 ## Lizenz
-2009 entstanden, weiterhin unter MIT Lizenz
+2009 entstanden, weiterhin unter [MIT Lizenz](./license)
